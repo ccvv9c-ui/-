@@ -1,0 +1,6 @@
+{
+  "name": "مترجم أوفلاين الذكي | Offline AI Translator",
+  "description": "منصة ترجمة صوتية ونصية فورية تعمل محلياً بالكامل بدون إنترنت (100% Offline) باستخدام تقنيات Transformers.js و WebGPU مع تصميم هجين أنيق.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
